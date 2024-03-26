@@ -8,8 +8,8 @@ void ft_is_negative(int n)
 	}
 	else
 	{
-		write(1,"P\n", 11);
-	}
+		write(1,"P\n", 2);
+	}2
 }
 
 int main()
